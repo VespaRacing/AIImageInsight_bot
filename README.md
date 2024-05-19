@@ -75,10 +75,4 @@ VisionAI leverages cutting-edge technology to offer real-time image recognition 
 - Fork the repository and create a new branch for your feature or bug fix.
 - Submit pull requests with a comprehensive description of changes.
 
-## License
 
-This project is licensed under the MIT License. View the LICENSE file for more details.
-
-## Contact
-
-For support or queries, please contact [your-email@example.com].
